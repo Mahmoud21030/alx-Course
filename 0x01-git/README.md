@@ -1,1 +1,1 @@
-<title>This is a combination of ALX courses' projects</title>
+<title> This is a combination of ALX courses' projects </title>
